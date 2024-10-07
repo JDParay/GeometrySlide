@@ -12,7 +12,7 @@ const geometries = [
   new THREE.TorusGeometry(0.5, 0.2, 16, 100)
 ];
 
-const colors = [0xff0000, 0x00ff00, 0x0000ff, 0xffff00, 0xff00ff];
+const colors = [0xff0000, 0xff00ff, 0x00ff00, 0xffff00, 0x0000ff];
 const objects = [];
 
 // Create materials and meshes
